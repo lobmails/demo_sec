@@ -2,7 +2,7 @@
 
 To execute, clone the project to your local folder:
 
-Go to the root and run the following to install dependencies:
+Go to the root (pom file) and run the following to install dependencies:
 
         mvn install
     
@@ -18,3 +18,4 @@ Following dependencies were used:
     - Default locale: en_AU, platform encoding: Cp1252
 
 *Avoid Plugin Descriptor warning message while the project installs the dependencies.
+*Chrome version ^74
