@@ -10,7 +10,7 @@ Once installed, run the following to execute test case:
 
         mvn clean verify serenity:aggregate
     
-Once done, please check the results from index.html under ./target
+Once done, please check the results from index.html under ./target and click on Feature link to get to the screenshots and details of each executed step
 
 Following dependencies were used:
     - Apache Maven 3.6.0
