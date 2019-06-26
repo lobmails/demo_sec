@@ -32,7 +32,7 @@ public class Hooks {
         System.out.println("SCENARIO ID AND NAME:" + scenario.getId() + "/" + scenario.getName());
         testName = scenario.getId() + "/" + scenario.getName();
 
-        if(scenario.getName().contains("Setup test data")){
+        if(scenario.getName().contains("API")){
             //No need of opening the browser
         }else{
 //        Driver configuration before scenario executes
